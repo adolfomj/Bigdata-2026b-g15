@@ -8,7 +8,7 @@
 
 | Nombre | Correo institucional | Usuario de GitHub |
 |---|---|---|
-| | | |
+| Adolfo Miguel Jimenez Muñoz | adolfo.jimenezm@est.iudigital.edu.co | adolfomj |
 | | | |
 | | | |
 
